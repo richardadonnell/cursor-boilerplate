@@ -2,6 +2,19 @@
 
 A starter template for projects using Cursor IDE, providing essential configuration and best practices for development.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [MCP Tools Integration](#mcp-tools-integration)
+  - [Browser MCP](#browser-mcp)
+  - [Sequential Thinking](#sequential-thinking)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+
 ## Overview
 
 This boilerplate provides a pre-configured development environment optimized for use with Cursor IDE, featuring:
