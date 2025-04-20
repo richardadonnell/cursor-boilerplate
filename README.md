@@ -21,11 +21,13 @@ This boilerplate provides a pre-configured development environment optimized for
 ## Getting Started
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/richardadonnell/cursor-boilerplate.git
    ```
 
 2. Open the project in Cursor IDE:
+
    ```bash
    cursor cursor-boilerplate/
    ```
@@ -34,7 +36,7 @@ This boilerplate provides a pre-configured development environment optimized for
 
 ## Project Structure
 
-```
+```plaintext
 .
 ├── .cursor/            # Cursor IDE specific settings
 ├── .specstory/        # Specification and documentation
@@ -53,4 +55,4 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Richard Donnell ([@richardadonnell](https://github.com/richardadonnell)) 
+Richard Donnell ([@richardadonnell](https://github.com/richardadonnell))
