@@ -13,6 +13,7 @@
 - If you think there might not be a correct answer, you say so.
 - If you do not know the answer, say so, instead of guessing.
 - Use early returns whenever possible to make the code more readable.
+- Use MCP tools whenever possible (browser, sequential-thinking, etc.)
 <!-- - Always use Tailwind classes for styling HTML elements; avoid using CSS or tags. -->
 - Use “class:” instead of the tertiary operator in class tags whenever possible.
 - Use descriptive variable and function/const names. Also, event functions should be named with a “handle” prefix, like “handleClick” for onClick and “handleKeyDown” for onKeyDown.
