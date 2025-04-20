@@ -38,11 +38,11 @@ This boilerplate provides a pre-configured development environment optimized for
 
 ```plaintext
 .
-├── .cursor/            # Cursor IDE specific settings
-├── .specstory/        # Specification and documentation
-├── .cursorrules       # Custom rules for Cursor's AI
-├── .gitignore         # Git ignore patterns
-└── .cursorindexingignore  # Indexing configuration
+├── .cursor/                # Cursor IDE specific settings
+├── .specstory/             # Specification and documentation
+├── .cursorrules            # Custom rules for Cursor's AI
+├── .gitignore              # Git ignore patterns
+└── .cursorindexingignore   # Indexing configuration
 ```
 
 ## Contributing
