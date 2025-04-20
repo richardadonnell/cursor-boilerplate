@@ -10,6 +10,7 @@ This boilerplate provides a pre-configured development environment optimized for
 - Gitignore patterns specific to Cursor IDE
 - Cursor-specific indexing configurations
 - Project structure best practices
+- Integration with powerful MCP (Model Context Protocol) tools
 
 ## Features
 
@@ -17,6 +18,8 @@ This boilerplate provides a pre-configured development environment optimized for
 - **Optimized Indexing**: Pre-configured `.cursorindexingignore` for better performance
 - **Git Integration**: Ready-to-use Git configuration with appropriate ignore patterns
 - **Project Organization**: Clean, organized structure for new projects
+- **Browser MCP Integration**: Automated browser testing and task automation capabilities through browsermcp.io
+- **Sequential Thinking**: Structured problem-solving and analysis tools for complex development tasks
 
 ## Getting Started
 
@@ -44,6 +47,26 @@ This boilerplate provides a pre-configured development environment optimized for
 ├── .gitignore              # Git ignore patterns
 └── .cursorindexingignore   # Indexing configuration
 ```
+
+## MCP Tools Integration
+
+### Browser MCP
+
+This boilerplate includes integration with Browser MCP, enabling:
+
+- Automated end-to-end testing
+- Task automation for web-based workflows
+- Local browser automation with your existing profiles
+- Secure, private automation that runs locally
+
+### Sequential Thinking
+
+The Sequential Thinking MCP tool is integrated to help with:
+
+- Breaking down complex problems into manageable steps
+- Planning and design with room for revision
+- Structured analysis and problem-solving
+- Dynamic adjustment of solution approaches
 
 ## Contributing
 
